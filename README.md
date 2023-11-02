@@ -11,8 +11,7 @@ I'm a developer with a strong background in WEB3.0 technologies, currently contr
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 
-📊 GitHub Stats:
-/n
+📊 GitHub Stats:\
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MavericksFive&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MavericksFive)
 
