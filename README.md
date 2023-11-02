@@ -9,10 +9,10 @@ I'm a developer with a strong background in WEB3.0 technologies, currently contr
 ![Ethereum](https://img.shields.io/badge/-Ethereum-000?&logo=Ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-... (Add more badges as needed)
+
 
 📊 GitHub Stats:
-//
+/n
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MavericksFive&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MavericksFive)
 
