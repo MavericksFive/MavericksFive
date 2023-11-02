@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MavericksFive
-- 👀 I’m interested in new Technologies (BlockChain, Smart Contract, Machine Learning, Big Data)
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach : arnaudberger84@gmail.com
+- 👀 I’m interested in WEB3.0 (ZKSNARK, BlockChain, Oracles, Smart Contract)
+- 📫 How to reach: arnaudbergeroffice@gmail.com
 
 <!---
 MavericksFive/MavericksFive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
