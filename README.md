@@ -15,6 +15,6 @@ I'm a developer with a strong background in WEB3.0 technologies, currently contr
 
 🔗 Connect with me:
 - 📧 Email: [arnaudbergeroffice@gmail.com](mailto:arnaudbergeroffice@gmail.com)
-- Twitter: [@YourTwitterHandle](https://twitter.com/0x_mavericks))
+- Twitter: [@0x_mavericks](https://twitter.com/0x_mavericks))
 
 If you're interested in collaborating or have any questions, feel free to reach out!
