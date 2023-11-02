@@ -1,5 +1,3 @@
-![Banner](URL_TO_YOUR_BANNER)
-
 👋 Hi, I’m @MavericksFive
 
 I'm a developer with a strong background in WEB3.0 technologies, currently contributing to various open-source projects. I'm passionate about ZKSNARK, Blockchain, Oracles, and Smart Contracts, and I'm always looking for new challenges and opportunities to learn.
@@ -18,9 +16,5 @@ I'm a developer with a strong background in WEB3.0 technologies, currently contr
 🔗 Connect with me:
 - 📧 Email: [arnaudbergeroffice@gmail.com](mailto:arnaudbergeroffice@gmail.com)
 - Twitter: [@YourTwitterHandle](https://twitter.com/0x_mavericks))
-
-💼 Notable Projects:
-- [Project Name](URL_TO_PROJECT): Brief description of the project.
-- [Another Project](URL_TO_ANOTHER_PROJECT): Brief description of the project.
 
 If you're interested in collaborating or have any questions, feel free to reach out!
