@@ -12,13 +12,13 @@ I'm a developer with a strong background in WEB3.0 technologies, currently contr
 ... (Add more badges as needed)
 
 📊 GitHub Stats:
+//
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MavericksFive&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MavericksFive)
 
 🔗 Connect with me:
 - 📧 Email: [arnaudbergeroffice@gmail.com](mailto:arnaudbergeroffice@gmail.com)
-- LinkedIn: [Link to Your LinkedIn](URL_TO_YOUR_LINKEDIN)
-- Twitter: [@YourTwitterHandle](URL_TO_YOUR_TWITTER)
+- Twitter: [@YourTwitterHandle](https://twitter.com/0x_mavericks))
 
 💼 Notable Projects:
 - [Project Name](URL_TO_PROJECT): Brief description of the project.
